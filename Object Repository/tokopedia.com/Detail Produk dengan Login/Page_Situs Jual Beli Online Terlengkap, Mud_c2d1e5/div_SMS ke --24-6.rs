@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SMS ke --24-6</name>
+   <tag></tag>
+   <elementGuidId>57ff3459-7a96-440f-81c9-d4c16df87ef1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi ke perangkatmu'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d632ba6-b35d-431e-8d51-e9ccaa94fd76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>unf-card css-19d2cr0-unf-card eh33ozn0</value>
+      <webElementGuid>2f7fd93f-15a3-49df-ac8d-dd06c244f8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Card</value>
+      <webElementGuid>1dbe5d0f-858a-4ef2-b942-7b60785d8d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>sms</value>
+      <webElementGuid>82d38930-5e70-477b-87b3-65dbb4fcb202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SMS ke ****-****-**24-6</value>
+      <webElementGuid>45af5dee-1834-438f-a7bd-67a4664015d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;css-1tbvo2g-unf-modal e1nc1fa20&quot;]/div[@class=&quot;css-1qwpmq4&quot;]/div[@class=&quot;css-vpkyow&quot;]/div[@class=&quot;css-4koktb&quot;]/div[@class=&quot;unf-card css-19d2cr0-unf-card eh33ozn0&quot;]</value>
+      <webElementGuid>9682e9f3-1648-43e2-afe5-1656b1248dbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifikasi ke perangkatmu'])[1]/following::div[1]</value>
+      <webElementGuid>5645bbe5-e53c-4cbd-bde7-248c36863610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>e20b153a-d0a3-4715-8eb2-b0d2d57e70b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SMS ke ****-****-**24-6' or . = 'SMS ke ****-****-**24-6')]</value>
+      <webElementGuid>76dd0201-91db-495a-ac2d-44a709a7d801</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

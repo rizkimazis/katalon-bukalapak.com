@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Chat_css-18i7x95-unf-modal__icon e1nc1fa21</name>
+   <tag></tag>
+   <elementGuidId>6cf7a6c5-8c0c-47dc-90f2-159bc6e1cc23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[8]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-18i7x95-unf-modal__icon.e1nc1fa21</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cde29e6f-a314-4751-9f4b-a3f1f79c5d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tutup tampilan modal</value>
+      <webElementGuid>bc66a36e-d3e9-496b-bc3a-b1ba4a34826b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-18i7x95-unf-modal__icon e1nc1fa21</value>
+      <webElementGuid>18f83f0d-038d-4372-ba10-7eec7b55897d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[8]/div[@class=&quot;css-7lg7ij-unf-modal e1nc1fa20&quot;]/button[@class=&quot;css-18i7x95-unf-modal__icon e1nc1fa21&quot;]</value>
+      <webElementGuid>6f8aa868-4c2c-46a5-94bf-c2fb992c4b39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/button</value>
+      <webElementGuid>67635703-72fe-484d-bf90-6b359f472792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

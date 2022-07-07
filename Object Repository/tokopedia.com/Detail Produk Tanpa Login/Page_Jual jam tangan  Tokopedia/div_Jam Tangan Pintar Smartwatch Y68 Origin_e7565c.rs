@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jam Tangan Pintar Smartwatch Y68 Origin_e7565c</name>
+   <tag></tag>
+   <elementGuidId>c6786b8d-ccab-4136-9d53-1b6ebbff8cd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div/div/div/div/div/div/div[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-y5gcsw > div.css-5fmc3z > div.css-qa82pd > div.css-1c4umxf > div.pcv3__container.css-gfx8z3 > div.css-974ipl > a.pcv3__info-content.css-gwkf0u > div.css-1b6t4dn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5143047-9943-436c-b095-71f7c2f04d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1b6t4dn</value>
+      <webElementGuid>2bcddbf5-5c1b-433a-868b-f9336fdd00e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>spnSRPProdName</value>
+      <webElementGuid>cf0ceea3-6266-4494-a5c9-5de9020f2726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jam Tangan Pintar Smartwatch Y68 Original IP67 Asisten Olahraga</value>
+      <webElementGuid>366b0920-da4d-4ebf-ac9b-a4e31758415a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-jau1bt&quot;]/div[@class=&quot;css-1c82svt&quot;]/div[@class=&quot;css-rjanld&quot;]/div[4]/div[@class=&quot;css-jza1fo&quot;]/div[@class=&quot;css-12sieg3&quot;]/div[@class=&quot;css-y5gcsw&quot;]/div[@class=&quot;css-5fmc3z&quot;]/div[@class=&quot;css-qa82pd&quot;]/div[@class=&quot;css-1c4umxf&quot;]/div[@class=&quot;pcv3__container css-gfx8z3&quot;]/div[@class=&quot;css-974ipl&quot;]/a[@class=&quot;pcv3__info-content css-gwkf0u&quot;]/div[@class=&quot;css-1b6t4dn&quot;]</value>
+      <webElementGuid>ba14bb66-a4ce-4388-9ed0-f7b7ace22a70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/div[2]/div/div[2]/div[4]/div/div/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>cb901de9-904d-46f5-9787-3c785ed74181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[1]/following::div[2]</value>
+      <webElementGuid>e7f5cf15-1b2f-431c-8072-0b8f120bd539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 1.415.000'])[1]/following::div[14]</value>
+      <webElementGuid>8188d3dc-1b42-44c7-b0ff-895b79a47cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp70.650'])[1]/preceding::div[1]</value>
+      <webElementGuid>855e4536-96e3-45e1-a531-cb516d38c5cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp78.500'])[1]/preceding::div[3]</value>
+      <webElementGuid>b337b3f7-b531-4e76-8946-e62a81b155bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jam Tangan Pintar Smartwatch Y68 Original IP67 Asisten Olahraga']/parent::*</value>
+      <webElementGuid>35e5bd0b-c521-44a4-9812-fb8bb80bd987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>fcf36235-f23c-48a3-8021-3e49c25b6856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jam Tangan Pintar Smartwatch Y68 Original IP67 Asisten Olahraga' or . = 'Jam Tangan Pintar Smartwatch Y68 Original IP67 Asisten Olahraga')]</value>
+      <webElementGuid>96e24985-1a46-4dd4-8a47-4456c596498d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
